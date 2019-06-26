@@ -1,0 +1,49 @@
+
+   
+.section{
+    width: 1025px;
+    height: 150px;
+    padding-left: 35%;
+   }
+   
+   .rede{
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-left: 20px;
+    transition: all 0.4s ease-out;
+    border-radius: 50%;
+   }
+   
+   .rede:hover{
+    cursor: pointer;
+    transform: translateY(-20px);
+    box-shadow: 4px 30px 16px 0px rgba(50,50,50, 0.45);
+   }
+   
+   .rede#facebook{
+    background-color: #0061a9;
+   
+   }
+   .rede#twitter{
+    background-color: #00b9ff;
+   }
+   .rede#instagram{
+    background-color: #3373a7;
+   }
+   
+   .rede#snap{
+    background-color: #fc0;
+   }
+   .rede#plus{
+    background-color: #dd4b39;
+   }
+   .rede#youtube{
+    background-color: #8B0000;
+   }
+   
+   .icone{
+    margin:0px auto;
+    padding: 12px;
+    width: 40px;
+   }
